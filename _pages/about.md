@@ -9,6 +9,7 @@ redirect_from:
 
 Welcome to my website! I am Zihao Chen, a PhD candidate at the Hong Kong University of Science and Technology (HKUST). My research centers on operations management, with a focus on the operation-marketing interface, service operations management, and socially responsible operations. I examine the interactions among consumers, sellers, and supply chain entities to investigate optimal decision-making processes and analyze how equilibrium affects consumer surplus and social welfare. My methodology involves game-theoretic and stochastic modeling. I'm very fortunate to be advised by [Prof. Ying-Ju Chen](https://seng.hkust.edu.hk/about/people/faculty/ying-ju-chen). Before my PhD program, I studied Electrical Engineering. You can download my CV here: [CV_Zihao Chen](../assets/CV_Zihao Chen.pdf)
 
+
 Working Papers
 ======
 1. Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Xingyu Fu, Pin Gao, and Ying-Ju Chen, **Minor Revision** at *Manufacturing & Service Operations Management* after 2 Rounds of Review.
@@ -16,6 +17,7 @@ Working Papers
 2. Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Xingyu Fu, and Ying-Ju Chen. *In preparation for submission.*
 
 3. Assessing and Promoting Supply Chain Responsibility: Impacts of Delayed Payments and Competitive Sourcing Market, with Yonghui Chen and Ying-Ju Chen. *Work in progress.*
+
 
 Pre-Doctorial Publications (in Electrical Engineering Field)
 ======
