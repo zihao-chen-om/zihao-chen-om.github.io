@@ -13,9 +13,9 @@ Working Papers
 ======
 1. Sound of Silence: When to Conceal Attribute Information? The Roles of Consumer Search, Inventory, and Channel Structure, with Xingyu Fu, Pin Gao, and Ying-Ju Chen, **Minor Revision** at *Manufacturing & Service Operations Management* after 2 Rounds of Review.
 
-2. Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Xingyu Fu, and Ying-Ju Chen.
+2. Discriminatory Pricing in Service Systems: The Curse of Non-Transparency, with Xingyu Fu, and Ying-Ju Chen. *In preparation for submission.*
 
-3. Assessing and Promoting Supply Chain Responsibility: Impacts of Delayed Payments and Competitive Sourcing Market, with Yonghui Chen and Ying-Ju Chen.
+3. Assessing and Promoting Supply Chain Responsibility: Impacts of Delayed Payments and Competitive Sourcing Market, with Yonghui Chen and Ying-Ju Chen. *Work in progress.*
 
 Pre-Doctorial Publications
 ======
