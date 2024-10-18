@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Zihao Chen and I'm a PhD candidate at the Hong Kong University of Science and Technology (HKUST). My research primarily concentrates on operations management, with a specific emphasis on the operation-marketing interface, service operations management, and socially responsible operations. By examining the interactions among consumers, sellers, and supply chain entities, my work investigates optimal decision-making processes and analyzes how equilibrium impacts consumer surplus and social welfare. My methodology includes game-theoretic modeling and stochastic modeling. My supervisor is [Prof. Ying-Ju Chen](https://seng.hkust.edu.hk/about/people/faculty/ying-ju-chen)
+Welcome to my website. I am Zihao Chen, a PhD candidate at the Department of Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology (HKUST). My research focuses on operations management, particularly the operation-marketing interface, service operations management, and socially responsible operations. I examine the interactions among consumers, sellers, and supply chain entities to investigate optimal decision-making processes and analyze how equilibrium affects consumer surplus and social welfare. My methodology includes game-theoretic and stochastic modeling. I'm very fortunate to be advised by [Prof. Ying-Ju Chen](https://seng.hkust.edu.hk/about/people/faculty/ying-ju-chen). Prior to my PhD program, I studied Electrical Engineering. You can download my CV here: [CV_Zihao Chen](../asset/CV_Zihao Chen.pdf)
 
 Working Papers
 ======
