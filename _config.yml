@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : #"en-US"
-title                    : "Zihao's Website"
+title                    : "Zihao Chen 陈子豪"
 title_separator          : "-"
 name                     : &name "Zihao Chen"
 description              : &description "personal description"
