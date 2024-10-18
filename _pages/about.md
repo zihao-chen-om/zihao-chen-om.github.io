@@ -17,7 +17,7 @@ Working Papers
 
 3. Assessing and Promoting Supply Chain Responsibility: Impacts of Delayed Payments and Competitive Sourcing Market, with Yonghui Chen and Ying-Ju Chen. *Work in progress.*
 
-Pre-Doctorial Publications
+Pre-Doctorial Publications (in Electrical Engineering Field)
 ======
 1. Chuan Liu, **Zihao Chen**, Kairong Huang, Sujuan Hu, Xiaoci Liang, and Jun Chen. (2020). Vertical transistors with conductive-network electrodes: A physical image and what it tells. Physical Review Applied, 13(5), 054066.
 
